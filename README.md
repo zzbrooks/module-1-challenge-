@@ -3,7 +3,11 @@
 Zabir Sarwar, I am the one currently managing this pre-existing code and contact me for any advice or opinions you have for me
   - contact (GitHub): zzbrooks 
 
-1. I'm currently working on refactoring existing code, HTML file, so that it is structured correctly 
+1. I'm currently working on refactoring existing code, HTML file, so that it is structured correctly and below is everything that I have refactored
+  - added all necessary semantic HTML elements such as the sections, header, and footer
+  - gave all images an alt attribute describing the image 
+  - gave a detailed and concise title
+
 
 2. I've learned and am still continuously learning the HTML semantics and learning how to manage an existing files so that the next person to look at that file can   understand the code better and make whatever changes necessary to bring the code up to "date"
 
